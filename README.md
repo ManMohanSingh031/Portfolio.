@@ -1,7 +1,7 @@
-# Live at: https://manmohan.me/
+# Live at: https://portfolio-man-mohan-singhs-projects.vercel.app/
 Welcome to my personal portfolio website! This project showcases my skills, projects, and experience as a Frontend Developer through a responsive and visually appealing web interface.
 
-Live at: https://manmohan.me/
+Live at: https://portfolio-man-mohan-singhs-projects.vercel.app/
 
  Portfolio - Light Mode
  
